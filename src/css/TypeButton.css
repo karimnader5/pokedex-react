@@ -1,0 +1,12 @@
+.typeButton {
+    padding: 10px;
+}
+
+.typeButton img {
+    display: block;
+    margin: 0px auto;
+}
+
+.typeButton img:hover {
+    cursor: pointer;
+}

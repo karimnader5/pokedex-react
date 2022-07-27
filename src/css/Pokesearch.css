@@ -1,0 +1,14 @@
+.input-group {
+    height: 50px;
+}
+
+.input-group-text {
+    font-size: 20px;
+}
+
+.typeSearch {
+    margin-top: 20px;
+    border: solid 1px #ced4da;
+    border-radius: 0.5rem;
+    justify-items: center;
+}
