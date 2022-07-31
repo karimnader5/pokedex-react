@@ -3,7 +3,42 @@
     margin-bottom: 20px;
 }
 
-.pokecards {
-    margin-top: 20px;
+.search {
+    margin-bottom: 20px;
 }
 
+.party {
+    margin-bottom: 20px;
+}
+
+.cards {
+    margin-bottom: 20px;
+}
+
+.searching {
+    border-radius: 0.5rem;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.searching h5 {
+    padding: 10px;
+    padding-left: 20px;
+    margin: auto;
+}
+
+.party {
+    position: relative;
+}
+
+.party-full {
+    display: block;
+    position: absolute;
+    width: 100%;
+    background-color: rgba(248, 215, 218, 0.2);
+    z-index: 9;
+    height: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

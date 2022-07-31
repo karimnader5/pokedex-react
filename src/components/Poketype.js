@@ -1,8 +1,6 @@
-import React from 'react'
-import '../css/Poketype.css'
+import React from 'react';
+import '../css/Poketype.css';
 
 export default function Poketype({ type }) {
-  return (
-        <p className={`t-type type-${type}`}>{type}</p>
-  )
+    return <p className={`t-type type-${type}`}>{type}</p>;
 }

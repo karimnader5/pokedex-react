@@ -4,6 +4,31 @@
     margin: 0px auto;
 }
 
+.card {
+    border: none;
+}
 
+.card button {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #36454f;
+    border-radius: 50%;
+    top: 0px;
+    right: 12px;
+    border: none;
+}
 
-
+.card button span {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    top: 0px;
+    right: 0px;
+    line-height: 1rem;
+    text-align: center;
+    border: none;
+    color: white;
+    font-weight: bold;
+}

@@ -6,9 +6,35 @@
     font-size: 20px;
 }
 
-.typeSearch {
-    margin-top: 20px;
+.nameSearch {
+    margin-bottom: 20px;
+}
+
+.typeIcons {
     border: solid 1px #ced4da;
     border-radius: 0.5rem;
-    justify-items: center;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 20px;
 }
+
+.typeButton {
+    padding: 10px;
+}
+
+.typeButton span {
+    width: 50px;
+    line-height: 50px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    background-color: #36454F;
+    border-radius: 50%;
+    color: white;
+    font-weight: bold;
+}
+
+.typeButton span:hover {
+    cursor: pointer;
+}
+

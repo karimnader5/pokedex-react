@@ -1,6 +1,5 @@
 const types = [
     "bug",
-    "dark",
     "dragon",
     "electric",
     "fairy",
